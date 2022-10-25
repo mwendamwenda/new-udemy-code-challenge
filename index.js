@@ -54,3 +54,9 @@ console.log(kariuki);
 //template literals
 const newKariuki = `i am ${myName} ${(year - yearOfBirth)} years old  ${job}!`;
 console.log(newKariuki);
+//backticks to create a multi lines
+console.log(`kenya
+is a new 
+oreder
+country
+`)
